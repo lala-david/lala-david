@@ -1,5 +1,5 @@
  <div align="center">
-# 🌏 Steadily 🌍 
+ # 🌏 Steadily 🌍 
 
 
 - 🌱 baby programmer 
