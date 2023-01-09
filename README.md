@@ -3,10 +3,11 @@
 
 
 - 🔭 I’m currently student
-- 🌱 I’m currently learning To Java, Spring, Backend, SQL, JS, Python, AI-basic
-- 👯 I’m looking to collaborate on Cloud Project
-- 💬 Ask me about 
-- 📫 How to contact me: wnswns1946@naver.com  
+- 🌱 I’m currently learning 
+     To Java, Spring, Backend, 
+     SQL, JS, Python, AI-basic
+- 📫 How to contact me: 
+      wnswns1946@naver.com  
 - 😄 Pronouns: 🦛nutria
 - 🐋 MBTI: ENFJ
 - ♾  My_Dream: Interstella 
