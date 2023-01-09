@@ -1,7 +1,6 @@
- <div align="center">
- # 🌏 Steadily 🌍 
+# 🌏 Steadily 🌍
 
-
+<div align="center"> 
 - 🌱 baby programmer 
   
 - 🪂 contact me: wnswns1946@naver.com 
