@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently student
 - 🌱 I’m currently learning To 
--     Java, Spring, Backend, 
+     Java, Spring, Backend, 
      SQL, JS, Python, AI-basic
 - 📫 How to contact me: 
       wnswns1946@naver.com  
