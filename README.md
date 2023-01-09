@@ -1,4 +1,4 @@
-# 🌏 Steadily 🌍
+# 🌏 Steadily  
 
 <div align="center"> 
 - 🌱 baby programmer 
