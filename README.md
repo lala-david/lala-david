@@ -1,9 +1,9 @@
 # 🌏 Steadily  
 
 <div align="center"> 
-- 🌱 baby programmer 
-  
-- 🪂 contact me: wnswns1946@naver.com 
+- 🌱 baby programmer   
+- 🪂 contact me: 
+-    wnswns1946@naver.com 
 - 🦛 nutria
 - ♾ Interstella 
 
