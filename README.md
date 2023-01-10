@@ -2,7 +2,7 @@
 
 <div align="center"> 
  
-- 🌱 baby programmer   
+- 🌱 aby programmer   
 - 🪂 contact me: 
 -    wnswns1946@naver.com 
 - 🦛 nutria
