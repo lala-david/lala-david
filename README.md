@@ -2,7 +2,7 @@
 
 <div align="center"> 
  
-| Name | Job | Contect | Universe |  
+| Name | Job | Contact | Universe |  
 |:---:|:---:|:---:|:---:|
 🙅🏻‍♂️ KANG SEONG JUN|🌱Student|🪂wnswns1946@naver.com|🌍 Pale Blue Dot| 
 
