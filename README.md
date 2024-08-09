@@ -36,10 +36,3 @@
 
 <br>
 
-
-### 🔫 **Latest Medium Articles**
-
-<a target="_blank" href="https://medium.com/@wnswns1946">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wnswns1946/0" alt="Latest Medium Article">
-</a>
-
