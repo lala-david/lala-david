@@ -1,12 +1,7 @@
 # 🌏 Pale Blue Dot
 
 ## Main Role 
- 🔭 **Onchain Data Analyst**
-
-<br>
-
-## Free Time Role  
- 🧫 **LLM Developer**
+ 🔭 Hello
 
 <br>
 
