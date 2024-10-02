@@ -9,11 +9,12 @@
 
 - **Department of Entrepreneurship** *(March 2018 - March 2019)*
 - **Software Science & Engineering** *(March 2022 - February 2025)*
-- **Blockchain Intelligence Lab** *(March 2023 - February 2025)*
 
 ---
 
 ## 💼 Experience
+### [BILAB](https://slime-death-220.notion.site/Bl-Lab-a0e7f2fa12284a32842e3acc45a9973b)
+- **Blockchain Intelligence Lab** *(March 2023 - February 2025)*
 
 ### [Kloint](https://www.kloint.co.kr/)
 
