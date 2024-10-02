@@ -1,7 +1,7 @@
 # 🌏 Pale Blue Dot
 
 ## Main Role
-  🔭 *Bro*
+  🔭 *Darkest*
 
 ## 🎓 Education
 
