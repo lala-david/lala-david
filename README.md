@@ -4,8 +4,7 @@
   🔭 *Darkest Hour*
 
 ## 🎓 Education
-
-### [Kunsan National University](https://www.kunsan.ac.kr/)
+### [Kunsan National University](https://www.kunsan.ac.kr/en/index.kunsan)
 
 - **Department of Entrepreneurship** *(March 2018 - March 2019)*
 - **Software Science & Engineering** *(March 2022 - February 2025)*
