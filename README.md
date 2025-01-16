@@ -2,6 +2,8 @@
 
 ## Main Role
   🔭 *Darkest Hour*
+  <br> </br>
+  🗡 *OSINT*
 
 ## 🎓 Education
 ### [Kunsan National University](https://www.kunsan.ac.kr/en/index.kunsan)
