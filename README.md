@@ -28,7 +28,7 @@
 
 | X (Twitter) | Medium | LinkedIn |
 |:---:|:---:|:---:|
-| <a href="https://x.com/lala71001"><img width="32" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a> | <a href="https://medium.com/@wnswns1946"><img width="60" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> | <a href="https://www.linkedin.com/in/%EC%84%B1%EC%A4%80-%EA%B0%95-9b665a309/"><img width="60" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| <a href="https://x.com/lala71001"><img width="32" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a> | <a href="https://medium.com/@flasywinter"><img width="60" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> | <a href="https://www.linkedin.com/in/%EC%84%B1%EC%A4%80-%EA%B0%95-9b665a309/"><img width="60" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 
 ---
 
