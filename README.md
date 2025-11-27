@@ -20,7 +20,7 @@
 ### [Kloint](https://www.kloint.co.kr/)
 - **Data Engineer Intern** *(July 2024 - August 2024)*
   - Developed and optimized data processing pipelines.
-- **Cryptocurrency Investigator** *(October 2024 - Present)*
+- **Investigator** *(October 2024 - Present)*
 
 ---
 
