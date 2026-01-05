@@ -4,13 +4,13 @@
   🗡 *OSINT*
 
 ## 💼 Experience
-### [BILAB](https://slime-death-220.notion.site/Bl-Lab-a0e7f2fa12284a32842e3acc45a9973b)
+### BILAB
 - **Blockchain Intelligence Lab** *(March 2023 - February 2025)*
 
 ### [Kloint](https://www.kloint.co.kr/)
 - **Data Engineer Intern** *(July 2024 - August 2024)*
   - Developed and optimized data processing pipelines.
-- **Intelligence Analyst** *(October 2024 - Present)*
+- **Threat Intelligence Analyst** *(October 2024 - Present)*
 
 ---
 
